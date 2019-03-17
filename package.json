@@ -1,0 +1,23 @@
+{
+  "name": "skills",
+  "version": "1.0.0",
+  "description": "\"# alexaskills\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashkingare/alexaskills.git"
+  },
+  "author": "@akash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashkingare/alexaskills/issues"
+  },
+  "homepage": "https://github.com/akashkingare/alexaskills#readme",
+  "dependencies": {
+    "alexa-app": "^4.1.0"
+  },
+  "devDependencies": {}
+}
